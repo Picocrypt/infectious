@@ -38,7 +38,7 @@ package infectious
 import (
 	"errors"
 
-	"github.com/HACKERALERT/sys/cpu"
+	"golang.org/x/sys/cpu"
 )
 
 var hasAVX2 = cpu.X86.HasAVX2
