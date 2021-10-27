@@ -1,3 +1,3 @@
 module github.com/HACKERALERT/infectious
 
-require github.com/HACKERALERT/sys v0.0.0-20211027210617-973b6e27cb1a
+require golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
