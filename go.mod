@@ -2,4 +2,4 @@ module github.com/HACKERALERT/infectious
 
 go 1.18
 
-require github.com/HACKERALERT/sys v0.0.0-20220412020404-2e09c491f471
+require github.com/HACKERALERT/sys v0.0.0-20220905150735-46e319fb60c9
