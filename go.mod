@@ -1,5 +1,5 @@
-module github.com/HACKERALERT/infectious
+module github.com/Picocrypt/infectious
 
 go 1.18
 
-require golang.org/x/sys v0.21.1-0.20240613073215-348425aa18d7
+require golang.org/x/sys v0.24.0
